@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriela Pestana</h1>
 <h3 align="center">A passionate frontend developer from Santos, Brazil</h3>
 
-<!--- 🔭 I’m currently working on **soon**-->
+- 🔭 I’m currently working on **my own portfolio**
 
-- 🌱 I’m currently learning **Jest and Angular**
+- 🌱 I’m currently learning **TDD and Backend Development**
 
 <!--- 👯 I’m looking to collaborate on **soon**
 
@@ -19,7 +19,7 @@
 
  <!--- 📄 Know about my experiences[soon](soon)-->
 
-- ⚡ Fun fact **I usually cry watching Transformers**
+- ⚡ Fun fact **I cried as a child because I couldn't cut paper with my left hand (and I still can't)**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
