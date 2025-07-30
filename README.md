@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, W3C, Bootstrap and SEO**
 
-- 📫 How to reach me **gabrielasap19@gmail.com**
+- 📫 How to reach me **gabriela@pestana.dev.br**
 
  <!--- 📄 Know about my experiences[soon](soon)-->
 
