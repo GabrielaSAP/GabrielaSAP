@@ -25,7 +25,7 @@
 <p align="left">
 </p>-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielasap&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pestana-dev&show_icons=true&bg_color=00000000)
     
 <h3 align="left">Languages and Tools:</h3>
 <p>
